@@ -6,7 +6,7 @@
 
 - I'm a high school student who joined github only to work on a project. I might use this more though because I am willing to learn how to be a programmer.
 
-- Working on the Rowblox project. Everything is private.
+- Working on the Rowblox project. Everything is private on our github.
 
 - Reach out to me.
    - Talk to me on [Discord.](https://discord.com/users/654805977287229440)
