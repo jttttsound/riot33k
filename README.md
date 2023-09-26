@@ -5,4 +5,3 @@
 
 - Reach out to me.
    - Talk to me on [Discord.](https://discord.com/users/654805977287229440)
-   - Send me an email @ jt@madhouselabs.net
